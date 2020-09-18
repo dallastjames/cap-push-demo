@@ -1,4 +1,4 @@
-package com.dallastjames.pushdemo;
+package com.dallastjames.pushdemo2;
 
 import android.os.Bundle;
 
