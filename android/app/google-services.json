@@ -1,43 +1,50 @@
 {
   "project_info": {
-    "project_number": "1009993410199",
-    "firebase_url": "https://fcm-test-70a7c.firebaseio.com",
-    "project_id": "fcm-test-70a7c",
-    "storage_bucket": "fcm-test-70a7c.appspot.com"
+    "project_number": "250408437402",
+    "firebase_url": "https://push-demo-2-125f6.firebaseio.com",
+    "project_id": "push-demo-2-125f6",
+    "storage_bucket": "push-demo-2-125f6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1009993410199:android:efa20ec66e71aefee2abd2",
+        "mobilesdk_app_id": "1:250408437402:android:ac0a146b85a5f659f30123",
         "android_client_info": {
-          "package_name": "com.dallastjames.pushdemo"
+          "package_name": "com.dallastjames.pushdemo2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1009993410199-mp7mf3g8313tave6i69tm9f41jdgc00d.apps.googleusercontent.com",
+          "client_id": "250408437402-hho288vn6bj2hk3biieobd17s45ol3pn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.dallastjames.pushdemo",
+            "package_name": "com.dallastjames.pushdemo2",
             "certificate_hash": "93792b4d49700b5600dda25cd050bbc10d754015"
           }
         },
         {
-          "client_id": "1009993410199-mrgv7b23eaes2kr8ar7oja14gh1r70kn.apps.googleusercontent.com",
+          "client_id": "250408437402-47pf3p0jqdf1q33nqb5fc9pkdbor54lm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7TlXl6x-6ZiazQMOiBXNDVXjCYV-Qf4I"
+          "current_key": "AIzaSyCwklgjm4J7RksgymoOnumJK3Iq3j7SCPc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1009993410199-mrgv7b23eaes2kr8ar7oja14gh1r70kn.apps.googleusercontent.com",
+              "client_id": "250408437402-47pf3p0jqdf1q33nqb5fc9pkdbor54lm.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "250408437402-5endedd71jbc0ujro5hcbsfvpr7ulssq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dallastjames.pushdemo2"
+              }
             }
           ]
         }
